@@ -1,0 +1,58 @@
+/* Template Name: styles */
+
+.header{
+	border:	5px solid;
+	border-color: rgb(58,60,59);
+	border-radius: 5px;
+	color: mintcream;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 600px;
+}
+.header p{
+	text-align: center;
+	font-family: Curlz MT;
+	font-size: 80px;
+	color: mintcream;
+	margin: 0;
+	letter-spacing: 0.5rem;
+	background-color: rgb(58,60,59);
+	-webkit-box-shadow:inset 0px 0px 0px 5px mintcream;
+}
+.login{
+	float: right;
+	padding: 0;
+	position: absolute;
+	top: 10%;
+	right: 2%;
+	transform: translate(-50%,-50%)
+}
+.login button{
+	border-radius: 5px;
+	padding: 5px 10px;
+	width: 100px;
+	background-color: rgb(58,60,59);
+	color: mintcream;	
+	text-align: center;
+	font-family: Kristen ITC;
+	font-size: 25px;
+} 
+.login button:hover{
+	background-color: mintcream;
+	opacity: 2;
+	color: rgb(58,60,59);
+}
+.navi{
+	text-decoration: none;
+	background-color: rgb(58,60,59);		
+	margin: 0;
+	position: absolute;
+	top: 4%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 100.3%;
+}
