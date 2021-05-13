@@ -34,7 +34,7 @@
 }
 </style>
 
-<div class="container">
+<div class="container" >
 <div id="demo" class="carousel slide" data-ride="carousel">
 
   <!-- Indicators -->

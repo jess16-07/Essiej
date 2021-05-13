@@ -67,7 +67,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-4 col-sm-6 col-ex-12 about-item wow lightSpeedIn" data-wow-offset="200" >
-            <span class="fa fa-group"></span>
+            <span class="fa fa-user"></span>
             <h2>Revned</h2>
             <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
           </div>
